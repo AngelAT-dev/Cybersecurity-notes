@@ -61,7 +61,14 @@ The content in this repository is based on:
 
 ---
 
-## Author
+---
+
+# 👨‍💻 Author
 
 Angel Jael Tolentino Altamirano  
-Cybersecurity Enthusiast
+Computer Science Engineer  
+Cybersecurity Enthusiast  
+
+📍 Mexico  
+🔗 LinkedIn  
+https://www.linkedin.com/in/angel-jael-tolentino-altamirano-b32555346
